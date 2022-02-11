@@ -41,5 +41,9 @@ def bakiyeSorgula(hesap):
 paraCek(SadikHesap,3000)
 bakiyeSorgula(SadikHesap)
 print('**********************')
+
+
+
+
 paraCek(SadikHesap,2000)
 bakiyeSorgula(SadikHesap)
